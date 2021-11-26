@@ -60,7 +60,7 @@ public class OneToManyMapApp {
 		System.out.println(q.getQuestionId());
 		System.out.println(q.getQuestion());
 		
-		  //Lazy 
+		//Lazy 
 		System.out.println(q.getAnswer().size());
 		 
 		
