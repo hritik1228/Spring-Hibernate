@@ -9,7 +9,7 @@
 
     <!-- Define your beans here -->
     <bean id="sim"
-    	class="com.hr.springIOC.Vodaphone">
+    	class="com.hr.springIOC.Jio">
     </bean>
     
 </beans>
